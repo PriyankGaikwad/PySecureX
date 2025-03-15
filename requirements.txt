@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+argparse
+cryptography
+pillow
+pydub
+pycryptodome
+requests
